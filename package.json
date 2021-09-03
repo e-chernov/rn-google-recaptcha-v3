@@ -1,0 +1,33 @@
+{
+  "name": "rn-google-recaptcha-v3",
+  "version": "1.0.0",
+  "description": "A react native wrapper for Google ReCaptcha V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-chernov/rn-google-recaptcha-v3"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "native",
+    "wrapper",
+    "google",
+    "recaptcha",
+    "v3",
+    "security"
+  ],
+  "author": "Evgeny Chernov",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "merge": ">=1.2.1",
+    "react-native-webview": "^9.4.0"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
