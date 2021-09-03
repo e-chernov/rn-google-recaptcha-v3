@@ -8,7 +8,7 @@ npm install --save rn-google-recaptcha-v3
 
 ## Usage
 ```
-<ReCaptcha {...props} />
+<GoogleCaptchaV3 {...props} />
 ```
 
 ### Props
